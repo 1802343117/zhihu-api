@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98b93c4d-0a2d-4f33-b1c3-3fb2ca04cbed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="J:\应用下载\maven_jar" />
+        <option name="mavenHome" value="J:/应用下载/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="J:\应用下载\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WYxkVUQ5Y2OesvqneQdAr828On" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.scs.soft.zhihu.api.mapper" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 4 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 4 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="zhihu-api" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ZhihuApiApplication">
+    <configuration name="SpecialMapperTest.selectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zhihu-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scs.soft.zhihu.api.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.scs.soft.zhihu.api.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.scs.soft.zhihu.api.mapper.SpecialMapperTest" />
+      <option name="METHOD_NAME" value="selectAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpecialMapperTest.selectRecent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zhihu-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scs.soft.zhihu.api.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.scs.soft.zhihu.api.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.scs.soft.zhihu.api.mapper.SpecialMapperTest" />
+      <option name="METHOD_NAME" value="selectRecent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZhihuApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="zhihu-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scs.soft.zhihu.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scs.soft.zhihu.api.ZhihuApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ZhihuApiApplication" />
+        <item itemvalue="JUnit.SpecialMapperTest.selectAll" />
+        <item itemvalue="JUnit.SpecialMapperTest.selectRecent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98b93c4d-0a2d-4f33-b1c3-3fb2ca04cbed" name="Default Changelist" comment="" />
+      <created>1579340472210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579340472210</updated>
+      <workItem from="1579340475128" duration="692000" />
+      <workItem from="1579347394031" duration="3547000" />
+      <workItem from="1579351019618" duration="8578000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1457" y="416" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579347967496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1457" y="416" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579347967496" />
+    <state x="534" y="449" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579359274985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="534" y="449" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579359274985" />
+    <state x="1152" y="281" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579351798319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1152" y="281" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579351798319" />
+    <state x="1202" y="290" key="FileChooserDialogImpl" timestamp="1579349836912">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1202" y="290" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579349836912" />
+    <state width="1049" height="271" key="GridCell.Tab.0.bottom" timestamp="1579359616294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1049" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579359616294" />
+    <state width="1049" height="271" key="GridCell.Tab.0.center" timestamp="1579359616294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1049" height="271" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579359616294" />
+    <state width="1049" height="271" key="GridCell.Tab.0.left" timestamp="1579359616294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1049" height="271" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579359616294" />
+    <state width="1049" height="271" key="GridCell.Tab.0.right" timestamp="1579359616294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1049" height="271" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579359616294" />
+    <state width="1049" height="271" key="GridCell.Tab.1.bottom" timestamp="1579359616294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1049" height="271" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579359616294" />
+    <state width="1049" height="271" key="GridCell.Tab.1.center" timestamp="1579359616294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1049" height="271" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579359616294" />
+    <state width="1049" height="271" key="GridCell.Tab.1.left" timestamp="1579359616294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1049" height="271" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579359616294" />
+    <state width="1049" height="271" key="GridCell.Tab.1.right" timestamp="1579359616294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1049" height="271" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579359616294" />
+    <state x="871" y="124" width="909" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579359764077">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="871" y="124" width="909" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579359764077" />
+    <state x="871" y="124" width="909" height="800" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1579359764077">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="871" y="124" width="909" height="800" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579359764077" />
+    <state x="925" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1579359690835">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="925" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579359690835" />
+    <state x="1155" y="256" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579353018213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1155" y="256" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579353018213" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1579358107749">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579358107749" />
+  </component>
+</project>
