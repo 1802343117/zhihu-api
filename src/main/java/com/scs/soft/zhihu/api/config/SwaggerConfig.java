@@ -35,7 +35,7 @@ public class SwaggerConfig {
         return new ApiInfoBuilder()
                 .title("知乎项目在线接口文档")
                 .description("知乎项目在线接口文档")
-                .contact(new Contact("孙文龙","https://github.com/Kuzma77","2673327266@qq.com"))
+                .contact(new Contact("唐小梁","https://github.com/1802343117/zhihu-api","1255965856@qq.com"))
                 .termsOfServiceUrl("http://localhost:8080/")
                 .version("1.0")
                 .build();

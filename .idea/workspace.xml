@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98b93c4d-0a2d-4f33-b1c3-3fb2ca04cbed" name="Default Changelist" comment="" />
+    <list default="true" id="98b93c4d-0a2d-4f33-b1c3-3fb2ca04cbed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scs/soft/zhihu/api/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scs/soft/zhihu/api/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/soft/zhihu/api/ZhihuApiApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/soft/zhihu/api/common/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/soft/zhihu/api/common/ResultCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/soft/zhihu/api/config/CorsConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/soft/zhihu/api/config/SwaggerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/soft/zhihu/api/controller/RoundTableController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/soft/zhihu/api/controller/SpecialController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/soft/zhihu/api/entity/RoundTable$RoundTableBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/soft/zhihu/api/entity/RoundTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/soft/zhihu/api/entity/Section$SectionBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/soft/zhihu/api/entity/Section.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/soft/zhihu/api/entity/Special$SpecialBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/soft/zhihu/api/entity/Special.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/soft/zhihu/api/mapper/RoundTableMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/soft/zhihu/api/mapper/SectionMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/soft/zhihu/api/mapper/SpecialMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/soft/zhihu/api/service/RoundTableService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/soft/zhihu/api/service/SpecialService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/soft/zhihu/api/service/impl/RoundTableServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/soft/zhihu/api/service/impl/SpecialServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/scs/soft/zhihu/api/ZhihuApiApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/scs/soft/zhihu/api/mapper/RoundTableMapperTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/scs/soft/zhihu/api/mapper/SectionMapperTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/scs/soft/zhihu/api/mapper/SpecialMapperTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +62,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1WYxkVUQ5Y2OesvqneQdAr828On" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -49,7 +79,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -155,11 +185,25 @@
       <workItem from="1579340475128" duration="692000" />
       <workItem from="1579347394031" duration="3547000" />
       <workItem from="1579351019618" duration="8578000" />
+      <workItem from="1579359689901" duration="415000" />
+      <workItem from="1579412039378" duration="4791000" />
     </task>
+    <task id="LOCAL-00001" summary="1.18&gt;&gt;&gt;知乎项目，专题、圆桌接口">
+      <created>1579360026060</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579360026060</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.18&gt;&gt;&gt;知乎项目，专题、圆桌接口" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.18&gt;&gt;&gt;知乎项目，专题、圆桌接口" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1457" y="416" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579347967496">
@@ -174,42 +218,54 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1152" y="281" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579351798319" />
+    <state x="822" y="104" key="CommitChangelistDialog2" timestamp="1579360021110">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="822" y="104" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579360021110" />
     <state x="1202" y="290" key="FileChooserDialogImpl" timestamp="1579349836912">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1202" y="290" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579349836912" />
-    <state width="1049" height="271" key="GridCell.Tab.0.bottom" timestamp="1579359616294">
+    <state width="1049" height="271" key="GridCell.Tab.0.bottom" timestamp="1579441459211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1049" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579359616294" />
-    <state width="1049" height="271" key="GridCell.Tab.0.center" timestamp="1579359616294">
+    <state width="1049" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579441459211" />
+    <state width="1049" height="271" key="GridCell.Tab.0.center" timestamp="1579441459210">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1049" height="271" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579359616294" />
-    <state width="1049" height="271" key="GridCell.Tab.0.left" timestamp="1579359616294">
+    <state width="1049" height="271" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579441459210" />
+    <state width="1049" height="271" key="GridCell.Tab.0.left" timestamp="1579441459210">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1049" height="271" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579359616294" />
-    <state width="1049" height="271" key="GridCell.Tab.0.right" timestamp="1579359616294">
+    <state width="1049" height="271" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579441459210" />
+    <state width="1049" height="271" key="GridCell.Tab.0.right" timestamp="1579441459210">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1049" height="271" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579359616294" />
-    <state width="1049" height="271" key="GridCell.Tab.1.bottom" timestamp="1579359616294">
+    <state width="1049" height="271" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579441459210" />
+    <state width="1049" height="271" key="GridCell.Tab.1.bottom" timestamp="1579441459211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1049" height="271" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579359616294" />
-    <state width="1049" height="271" key="GridCell.Tab.1.center" timestamp="1579359616294">
+    <state width="1049" height="271" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579441459211" />
+    <state width="1049" height="271" key="GridCell.Tab.1.center" timestamp="1579441459211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1049" height="271" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579359616294" />
-    <state width="1049" height="271" key="GridCell.Tab.1.left" timestamp="1579359616294">
+    <state width="1049" height="271" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579441459211" />
+    <state width="1049" height="271" key="GridCell.Tab.1.left" timestamp="1579441459211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1049" height="271" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579359616294" />
-    <state width="1049" height="271" key="GridCell.Tab.1.right" timestamp="1579359616294">
+    <state width="1049" height="271" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579441459211" />
+    <state width="1049" height="271" key="GridCell.Tab.1.right" timestamp="1579441459211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1049" height="271" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579359616294" />
+    <state width="1049" height="271" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579441459211" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1579441740791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579441740791" />
+    <state x="917" y="257" key="Vcs.Push.Dialog.v2" timestamp="1579360062719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="917" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579360062719" />
     <state x="871" y="124" width="909" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579359764077">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -218,10 +274,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="871" y="124" width="909" height="800" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579359764077" />
-    <state x="925" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1579359690835">
+    <state x="925" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1579412042287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="925" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579359690835" />
+    <state x="925" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579412042287" />
     <state x="1155" y="256" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579353018213">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
